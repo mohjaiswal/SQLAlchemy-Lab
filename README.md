@@ -1,8 +1,8 @@
 # SQL Mastery: Elevating Data with DBeaver
 
- ![WhalePortfolio](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/54c652106588609.5f93106bc0070.jpg)
+ ![WhalePortfolio](SQLAlchemy Lab_header.png)
 
- ![Header Image](SQLAlchemy Lab_header.png)
+ ![Header Image]()
 
 ### A Professional Showcase by Moh Jaiswal
 
