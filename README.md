@@ -1,6 +1,6 @@
 # SQL Mastery: Elevating Data with DBeaver
 
-[SQLAlchemy Header Image](SQLAlchemy Lab_header.png)
+![SQLAlchemy Header Image]('SQLAlchemy Lab_header.png')
 
 ### A Professional Showcase by Moh Jaiswal
 
