@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In an era where data is king, mastering SQL is indispensable. My project transcends basic SQL operations, delving into sophisticated data manipulation and cleansing techniques within DBeaver's SQLite environment. It's not just about queries; it's about crafting data stories that drive decisions in finance and real estate sectors.
+In an era where data is king, mastering SQL is indispensable. My project transcends basic SQL operations, delving into sophisticated data manipulation and cleansing techniques within DBeaver's SQLite environment, leveraging the DBeaver Sample Database. It's not just about queries; it's about crafting data stories that drive decisions in finance and real estate sectors.
 
 ## Why This Matters
 
