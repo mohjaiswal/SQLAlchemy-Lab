@@ -2,7 +2,7 @@
 
  ![WhalePortfolio](SQLAlchemy Lab_header.png)
 
- ![Header Image]()
+ ![Header Image](SQLAlchemy Lab_header.png)
 
 ### A Professional Showcase by Moh Jaiswal
 
