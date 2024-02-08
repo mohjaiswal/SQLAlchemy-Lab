@@ -17,6 +17,10 @@ Designed for data-driven industries, this repository demonstrates my proficiency
 - **Precision Data Cleaning**: Showcasing meticulous techniques to ensure data integrity and reliability.
 - **Real-World Application**: Focused on finance and real estate, sectors where accurate data analysis is critical.
 
+## Entity-Relationship Diagram (ERD)
+
+![ERD Image](SQLERD.png)
+
 ## Featured Techniques
 
 From nuanced data type conversions to complex date manipulations and relational table dynamics, each script is a testament to the power of SQL in solving real-world data challenges. Highlights include:
