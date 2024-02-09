@@ -1,8 +1,5 @@
 # SQL Mastery: Elevating Data with DBeaver
-
  ![Header Image](SQLHeader.webp)
-
-
 ### A Professional Showcase by Moh Jaiswal
 
 ## Introduction
@@ -18,9 +15,7 @@ Designed for data-driven industries, this repository demonstrates my proficiency
 - **Real-World Application**: Focused on finance and real estate, sectors where accurate data analysis is critical.
 
 ## Entity-Relationship Diagram (ERD)
-
 ![ERD Image](SQLERD.png)
-
 ## Featured Techniques
 
 From nuanced data type conversions to complex date manipulations and relational table dynamics, each script is a testament to the power of SQL in solving real-world data challenges. Highlights include:
@@ -52,7 +47,6 @@ Your insights can refine this repository further. Fork, modify, and PR to contri
 ## Note
 
 This work is a blend of technical skill and industry insight, aiming to bridge the gap between data and decision-making. While educational, it embodies the analytical rigor demanded by today's data landscapes. I would specially like to thank Juan Valencia Saravia (SQL Bootcamp Facilitator) and TRSM for the SQL Bootcampt facilitated by Toronto Metropolitan University. 
-
 ---
 
 © 2024 Moh Jaiswal. Bridging Data and Decisions. All Rights Reserved.
