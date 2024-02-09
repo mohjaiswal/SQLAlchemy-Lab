@@ -51,7 +51,7 @@ Your insights can refine this repository further. Fork, modify, and PR to contri
 
 ## Note
 
-This work is a blend of technical skill and industry insight, aiming to bridge the gap between data and decision-making. While educational, it embodies the analytical rigor demanded by today's data landscapes.
+This work is a blend of technical skill and industry insight, aiming to bridge the gap between data and decision-making. While educational, it embodies the analytical rigor demanded by today's data landscapes. I would specially like to thank Juan Valencia Saravia (SQL Bootcamp Facilitator) and TRSM for the SQL Bootcampt facilitated by Toronto Metropolitan University. 
 
 ---
 
